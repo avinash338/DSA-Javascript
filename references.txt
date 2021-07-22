@@ -1,0 +1,35 @@
+Websites:
+1. https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+2. https://www.programiz.com/dsa
+3. https://thatjsdude.com/interview/linkedList.html
+
+Data structures in javascript: https://www.youtube.com/watch?v=b5Ir-iRGLMk&list=PLF0lDGpsux7vVLlNEsq1ZWHIWAjBi-erw
+
+Big O: https://dev.to/miku86/javascript-data-structures-recap-lists-stack-queue-2can
+
+LinkedList:
+Video: https://www.youtube.com/watch?v=ZBdE8DElQQU
+Documentation:
+LinkedList, Double Linked list: https://dev.to/miku86/series/3259
+Circular LinkedList: https://dev.to/swarup260/data-structures-algorithms-in-javascript-circular-linked-list-16ph
+Reversing linkedList : https://www.youtube.com/watch?v=D7y_hoT_YZI
+sum of two linkedlists: https://dev.to/alisabaj/add-two-numbers-problems-how-to-sum-two-linked-lists-7oe
+
+Stack: 
+Video: https://www.youtube.com/watch?v=wtynhUwS5hI (Stack implementation using arrays)
+Documentation:
+https://dev.to/miku86/javascript-data-structures-stack-intro-51la (Stack implementation using LinkedList)
+
+Queue:
+Documentation: https://dev.to/miku86/javascript-data-structures-queue-intro-2n49
+
+
+
+Searching algorithms:
+https://dev.to/imranib/javascript-searching-algorithms-2il2
+
+
+
+
+important:
+https://dev.to/mayankav/is-everything-in-javascript-an-object-1alg
