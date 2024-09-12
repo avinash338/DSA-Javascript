@@ -120,4 +120,19 @@ export default class LinkedList {
       current = current.next;
     }
   }
+
+
+  pop() {
+    if (!this.head) {
+      return;
+    } else {
+      // size = 3
+      // index = 3
+      let current = this.head;
+      while (count < 3) {
+
+      }
+    }
+  }
+
 }
